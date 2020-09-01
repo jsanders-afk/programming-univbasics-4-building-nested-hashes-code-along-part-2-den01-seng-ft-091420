@@ -52,3 +52,4 @@ def add_characters
      {:name => "Apothecary" }
    ]
 end
+binding.pry
