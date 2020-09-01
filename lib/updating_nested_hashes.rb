@@ -53,3 +53,13 @@ def add_characters
    ]
 end
 binding.pry
+
+
+ epic_tragedy[:additional_characters] 
+   epic_tragedy[:additional_characters] = [
+     {:name => "Prince Escalus"},
+     {:name => "Apothecary" }
+   ]
+
+
+
