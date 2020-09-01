@@ -1,3 +1,4 @@
+require 'pry'
 def update_status
    epic_tragedy = {
       :montague => {
@@ -51,3 +52,4 @@ def add_characters
      {:name => "Apothecary" }
    ]
 end
+binding.pry
