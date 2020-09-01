@@ -24,7 +24,7 @@ epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 epic_tragedy
 end
-binding.pry
+
 def add_characters
    epic_tragedy = {
       :montague => {
