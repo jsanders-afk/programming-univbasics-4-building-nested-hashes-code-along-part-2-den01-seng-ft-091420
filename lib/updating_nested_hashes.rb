@@ -53,7 +53,6 @@ def add_characters
      ]
   epic_tragedy
 end
-binding.pry
 
 
  
